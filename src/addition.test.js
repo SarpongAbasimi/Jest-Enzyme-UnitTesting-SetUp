@@ -7,6 +7,14 @@ import Adapter from 'enzyme-adapter-react-16';
 
 Enzyme.configure({ adapter: new Adapter() });
 
+/*
+npm install enzyme react-addons-test-utils --save-dev
+commmand to run to install enzyme react-addons-test-utils
+*/
+
+
+
+
 //import addition from './index';
 //To run jest in terminal just tupe in npm test
 //test('myaddition',()=>{
